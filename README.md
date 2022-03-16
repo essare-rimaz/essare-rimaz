@@ -2,7 +2,7 @@
 besides being a fan of programming I’m also a linguist, analyst, volunteer and gamer.
 
 ### What kind of technologies I’m into?
-- Programming languages: Python, R, SQL
+- Python, R, SQL
 - Natural Language Processing
 - Data analysis, data modeling
 - Statistics, ML
