@@ -5,6 +5,7 @@ besides being a fan of programming I’m also a linguist, analyst, volunteer and
 - Programming languages: Python, R, SQL
 - Natural Language Processing
 - Data analysis, data modeling
+- Statistics, ML
 
 ### What projects Am I working on?
 My diploma thesis involves acoustic data processing for a classification model which I am currently building.
